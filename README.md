@@ -1,4 +1,4 @@
-# Automated-Social-Media-Posts-Scheduler
+# Automated-Social-Media-Poster
 The Application is developed on Python, and can be used to schedule posts to a user’s social media accounts. It primarily encapsulates two different access domains.<br/>
 • The first, uses a varied range of tools including Selenium and JavaScript and can be used on
 personal fronts.<br/>
